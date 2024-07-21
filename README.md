@@ -18,7 +18,7 @@ ngrok: Used to tunnel local development servers to make them accessible over the
 
 ## Setup and Installation
 ### Clone the repository:
-git clone https://github.com/yourusername/Bella-Chat-Bot.git  
+git clone https://github.com/Sahaj-26/Bella-Chat-Bot.git  
 cd Bella-Chat-Bot
 
 ### Install dependencies:
